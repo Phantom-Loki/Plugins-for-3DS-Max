@@ -1,0 +1,18 @@
+ALL the files can be opened in notepad itself 
+
+step 1 : double click on the install_plugin.bat file and run 
+
+	it does copy these two folders macroscripts and scripts in to C: drive 
+	within a new folder named My3dsmax plugins 
+	- It acts as an permanent data location so whenever 3ds max closes and launches
+	  we can access the files and run our plugin
+
+Step 2 : Open 3DS Max and Drag and Drop the Plugin.mzp file into the window
+
+Step 3: Goto Customize tab > Customize UI > toolbar > click on category drop-down 
+	Find MyPluginFinal > Click on it > Drag and drop the BrickPatternGenerator to 
+	toolbar 
+
+Step 4: Click on the drag and dropped icon 
+
+Step 5: The Plugin runs 
